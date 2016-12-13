@@ -7,7 +7,7 @@ Boom! super blog
     <METADATA>(
         'tags': ['firsttag', 'otherSuperTag'], 
         'date': '12/12/2016')
--->`
+-->
 
 
 

@@ -3,9 +3,8 @@
 ## This is our first post in markdown format
 Boom! super blog
 
-#<METADATA>#(
+<METADATA>(
     'tags': ['firsttag', 'otherSuperTag'], 
     'date': '12/12/2016'
 )
-#<TAGS>#:['this is a tag' , 'this is other tag']
 
